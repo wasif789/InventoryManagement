@@ -1,0 +1,26 @@
+{
+  "riceList": [
+    {
+      "Name": "Biriyani Rice",
+      "Weight": 28,
+      "Price": 101,
+      "Type": "long rice"
+    }
+  ],
+  "pulseList": [
+    {
+      "Name": "Moon dal",
+      "Weight": 20,
+      "Price": 111,
+      "Type": "yellow"
+    }
+  ],
+  "wheatList": [
+    {
+      "Name": "punjabi weath",
+      "Weight": 18,
+      "Price": 50,
+      "Type": "first quality"
+    }
+  ]
+}
